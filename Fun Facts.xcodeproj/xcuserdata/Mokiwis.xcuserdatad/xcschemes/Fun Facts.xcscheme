@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1479EC651BA2593F007EA45E"
-               BuildableName = "Fun Facts.app"
-               BlueprintName = "Fun Facts"
+               BuildableName = "Fun Facts.temp_caseinsensitive_rename.app"
+               BlueprintName = "Fun Facts.temp_caseinsensitive_rename"
                ReferencedContainer = "container:Fun Facts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1479EC7A1BA25940007EA45E"
-               BuildableName = "Fun FactsTests.xctest"
-               BlueprintName = "Fun FactsTests"
+               BuildableName = "Fun FactsFun Factss.xctest"
+               BlueprintName = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames"
                ReferencedContainer = "container:Fun Facts.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,8 +47,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1479EC7A1BA25940007EA45E"
-               BuildableName = "Fun FactsTests.xctest"
-               BlueprintName = "Fun FactsTests"
+               BuildableName = "Fun FactsFun Factss.xctest"
+               BlueprintName = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames"
                ReferencedContainer = "container:Fun Facts.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -57,8 +57,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1479EC651BA2593F007EA45E"
-            BuildableName = "Fun Facts.app"
-            BlueprintName = "Fun Facts"
+            BuildableName = "Fun Facts.temp_caseinsensitive_rename.app"
+            BlueprintName = "Fun Facts.temp_caseinsensitive_rename"
             ReferencedContainer = "container:Fun Facts.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,8 +77,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1479EC651BA2593F007EA45E"
-            BuildableName = "Fun Facts.app"
-            BlueprintName = "Fun Facts"
+            BuildableName = "Fun Facts.temp_caseinsensitive_rename.app"
+            BlueprintName = "Fun Facts.temp_caseinsensitive_rename"
             ReferencedContainer = "container:Fun Facts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -96,8 +96,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1479EC651BA2593F007EA45E"
-            BuildableName = "Fun Facts.app"
-            BlueprintName = "Fun Facts"
+            BuildableName = "Fun Facts.temp_caseinsensitive_rename.app"
+            BlueprintName = "Fun Facts.temp_caseinsensitive_rename"
             ReferencedContainer = "container:Fun Facts.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

@@ -28,14 +28,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1479EC661BA2593F007EA45E /* Fun Facts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fun Facts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1479EC661BA2593F007EA45E /* Fun Facts.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fun Facts.temp_caseinsensitive_rename.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1479EC6A1BA2593F007EA45E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1479EC6B1BA2593F007EA45E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1479EC6D1BA2593F007EA45E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1479EC701BA2593F007EA45E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1479EC721BA2593F007EA45E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		1479EC751BA2593F007EA45E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		1479EC7B1BA25940007EA45E /* Fun FactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fun FactsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1479EC7B1BA25940007EA45E /* Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1479EC801BA25940007EA45E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1479EC811BA25940007EA45E /* Fun_FactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fun_FactsTests.swift; sourceTree = "<group>"; };
 		1479EC8B1BA25B11007EA45E /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Scratchpad.playground; sourceTree = "<group>"; };
@@ -75,8 +75,8 @@
 		1479EC671BA2593F007EA45E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1479EC661BA2593F007EA45E /* Fun Facts.app */,
-				1479EC7B1BA25940007EA45E /* Fun FactsTests.xctest */,
+				1479EC661BA2593F007EA45E /* Fun Facts.temp_caseinsensitive_rename.app */,
+				1479EC7B1BA25940007EA45E /* Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -131,9 +131,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1479EC651BA2593F007EA45E /* Fun Facts */ = {
+		1479EC651BA2593F007EA45E /* Fun Facts.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1479EC851BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun Facts" */;
+			buildConfigurationList = 1479EC851BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun Facts.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				1479EC621BA2593F007EA45E /* Sources */,
 				1479EC631BA2593F007EA45E /* Frameworks */,
@@ -143,14 +143,14 @@
 			);
 			dependencies = (
 			);
-			name = "Fun Facts";
+			name = "Fun Facts.temp_caseinsensitive_rename";
 			productName = "Fun Facts";
-			productReference = 1479EC661BA2593F007EA45E /* Fun Facts.app */;
+			productReference = 1479EC661BA2593F007EA45E /* Fun Facts.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1479EC7A1BA25940007EA45E /* Fun FactsTests */ = {
+		1479EC7A1BA25940007EA45E /* Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1479EC881BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun FactsTests" */;
+			buildConfigurationList = 1479EC881BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames" */;
 			buildPhases = (
 				1479EC771BA25940007EA45E /* Sources */,
 				1479EC781BA25940007EA45E /* Frameworks */,
@@ -161,9 +161,9 @@
 			dependencies = (
 				1479EC7D1BA25940007EA45E /* PBXTargetDependency */,
 			);
-			name = "Fun FactsTests";
+			name = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames";
 			productName = "Fun FactsTests";
-			productReference = 1479EC7B1BA25940007EA45E /* Fun FactsTests.xctest */;
+			productReference = 1479EC7B1BA25940007EA45E /* Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -198,8 +198,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1479EC651BA2593F007EA45E /* Fun Facts */,
-				1479EC7A1BA25940007EA45E /* Fun FactsTests */,
+				1479EC651BA2593F007EA45E /* Fun Facts.temp_caseinsensitive_rename */,
+				1479EC7A1BA25940007EA45E /* Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames */,
 			);
 		};
 /* End PBXProject section */
@@ -249,7 +249,7 @@
 /* Begin PBXTargetDependency section */
 		1479EC7D1BA25940007EA45E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1479EC651BA2593F007EA45E /* Fun Facts */;
+			target = 1479EC651BA2593F007EA45E /* Fun Facts.temp_caseinsensitive_rename */;
 			targetProxy = 1479EC7C1BA25940007EA45E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -364,7 +364,7 @@
 				INFOPLIST_FILE = "Fun Facts/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Fun Facts.temp_caseinsensitive_rename";
 				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
@@ -378,7 +378,7 @@
 				INFOPLIST_FILE = "Fun Facts/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Fun Facts.temp_caseinsensitive_rename";
 				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
@@ -397,7 +397,7 @@
 				);
 				INFOPLIST_FILE = "Fun FactsTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fun Facts.app/Fun Facts";
 			};
 			name = Debug;
@@ -412,7 +412,7 @@
 				);
 				INFOPLIST_FILE = "Fun FactsTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Fun Facts.app/Fun Facts";
 			};
 			name = Release;
@@ -429,7 +429,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1479EC851BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun Facts" */ = {
+		1479EC851BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun Facts.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1479EC861BA25940007EA45E /* Debug */,
@@ -438,7 +438,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1479EC881BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun FactsTests" */ = {
+		1479EC881BA25940007EA45E /* Build configuration list for PBXNativeTarget "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1479EC891BA25940007EA45E /* Debug */,
