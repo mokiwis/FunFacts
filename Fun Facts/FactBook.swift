@@ -59,4 +59,14 @@ struct FactBook {
         "Bin Laden’s death was announced on 1st May 2011. Hitler’s death was announced on 1st May 1945."
     ]
     
+    func randomFact() -> String {
+        
+        var unsignedArrayCount = UInt32(factsArray.count)
+        var unsignedRandomNumber = arc4random_uniform(unsignedArrayCount)
+        var randomNumber = Int(unsignedRandomNumber)
+        
+        return factsArray[randomNumber]
+    
+    }
+    
 }
