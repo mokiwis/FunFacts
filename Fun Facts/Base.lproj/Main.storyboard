@@ -30,8 +30,10 @@
                                 <rect key="frame" x="52" y="448" width="216" height="61"/>
                                 <color key="backgroundColor" red="1" green="1" blue="0.99607843137254903" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="61" id="JR4-eQ-EZ9"/>
                                     <constraint firstAttribute="width" constant="216" id="gHs-SQ-iLr"/>
                                     <constraint firstAttribute="height" constant="61" id="iJk-rb-pEp"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="216" id="jnR-UT-u87"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="14"/>
                                 <color key="tintColor" red="0.29803921568627451" green="0.68627450980392157" blue="0.65098039215686276" alpha="1" colorSpace="calibratedRGB"/>
@@ -55,12 +57,15 @@
                         </subviews>
                         <color key="backgroundColor" red="0.3529411764705882" green="0.73333333333333328" blue="0.70980392156862748" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
+                            <constraint firstItem="B3W-i0-ZQq" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="36" id="4rA-VU-pkZ"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="B3W-i0-ZQq" secondAttribute="trailing" constant="36" id="C4c-OW-9bJ"/>
                             <constraint firstItem="h4q-Q2-R1S" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="40" id="CKP-He-EE4"/>
                             <constraint firstItem="hXc-O5-WDa" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="36" id="DOL-Iz-z9D"/>
                             <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="B3W-i0-ZQq" secondAttribute="bottom" constant="59" id="Foj-m2-AdU"/>
                             <constraint firstItem="hXc-O5-WDa" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="180" id="IR1-r1-RlT"/>
                             <constraint firstItem="h4q-Q2-R1S" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="36" id="MKc-16-4lC"/>
                             <constraint firstItem="B3W-i0-ZQq" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="36" id="WBi-SL-ROj"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="B3W-i0-ZQq" secondAttribute="bottom" constant="59" id="fBh-yo-Sy3"/>
                         </constraints>
                     </view>
                     <connections>
