@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Fun Facts.xcodeproj">
+      location = "self:/Users/Mokiwis/Developer/Fun Facts/Fun Facts.xcodeproj">
    </FileRef>
 </Workspace>

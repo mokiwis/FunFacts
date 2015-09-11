@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>A7D24903-418F-400A-B28D-85033CB51BDD</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Fun Facts</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>96A834CB015A7B4BC5B2196E685684383931E115</key>
 		<string>https://github.com/mokiwis/FunFacts</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Fun Facts.xcodeproj/project.xcworkspace</string>
+	<string>Fun Facts.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>96A834CB015A7B4BC5B2196E685684383931E115</key>
