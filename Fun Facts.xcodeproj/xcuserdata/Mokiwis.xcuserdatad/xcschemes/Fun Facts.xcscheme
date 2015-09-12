@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1479EC7A1BA25940007EA45E"
-               BuildableName = "Fun FactsFun Factss.xctest"
+               BuildableName = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames.xctest"
                BlueprintName = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames"
                ReferencedContainer = "container:Fun Facts.xcodeproj">
             </BuildableReference>
@@ -37,17 +37,17 @@
       </BuildActionEntries>
    </BuildAction>
    <TestAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Debug">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1479EC7A1BA25940007EA45E"
-               BuildableName = "Fun FactsFun Factss.xctest"
+               BuildableName = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames.xctest"
                BlueprintName = "Fun Facts.temp_caseinsensitive_renameFun Facts.temp_caseinsensitive_renames"
                ReferencedContainer = "container:Fun Facts.xcodeproj">
             </BuildableReference>
@@ -62,15 +62,18 @@
             ReferencedContainer = "container:Fun Facts.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
    </TestAction>
    <LaunchAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
@@ -86,10 +89,10 @@
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
       <BuildableProductRunnable
          runnableDebuggingMode = "0">
